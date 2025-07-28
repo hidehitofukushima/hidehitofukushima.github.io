@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "HIDEHITO FUKUSHIMA"
+author: "Hidehito Fukushima"
+description: "A bioinformatician who is interested in genomics and bioinformatics. ゲノム情報解析に関するメモを書きます。"
 permalink: /:title/
-lang: "en"
+lang: "ja"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -22,9 +22,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:hidehitofukushima@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/hidehitofukushima"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
