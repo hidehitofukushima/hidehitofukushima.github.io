@@ -11,4 +11,4 @@ A hematologist, multi-omics analyses
 - 2023 Department of Hematology & Oncology, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan.
 
 # Contact
-[email me](mailto:hidehitofukushima@gmail.com)
+[email:hidehitofukushima@gmail.com](mailto:hidehitofukushima@gmail.com)
