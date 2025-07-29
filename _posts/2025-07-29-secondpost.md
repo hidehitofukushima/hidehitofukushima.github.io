@@ -137,3 +137,7 @@ vim.cmd("hi StatusLine guibg=NONE")
 こんな感じに設定。意外と<leader>pで段落、<leader>cでセルを送信できるのが便利である。
 最初からこれを意識してコードを執筆するため、以前よりも見た目はスッキリしたような・・・？
 tmuxのペインに送る所の設定でやや手間取ったが、無事に動作している。
+
+vimの学習に良いソースを発見。
+https://youtu.be/5BU2gBOe9RU?si=BoPKHPgchIE_xLYa
+この記事は次回の動画でまとめます。
