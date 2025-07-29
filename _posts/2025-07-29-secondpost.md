@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "vim-slimeでREPL"
 layout: post
 ---
 tags: [oil.nvim, neovim, file explorer, plugin]
