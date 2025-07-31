@@ -1,6 +1,6 @@
-title: "HIDEHITO FUKUSHIMA"
+title: "データ解析のメモ"
 author: "Hidehito Fukushima"
-description: "A bioinformatician who is interested in genomics and bioinformatics. ゲノム情報解析に関するメモを書きます。"
+description: "ゲノム情報解析に関するメモを書きます。"
 permalink: /:title/
 lang: "ja"
 excerpt_separator: "\n\n\n"
