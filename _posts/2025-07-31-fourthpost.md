@@ -1,5 +1,5 @@
 ---
-title: "vim-slimeでREPL"
+title: "エディタを乗り換える③"
 layout: post
 ---
 tags: [oil.nvim, neovim, file explorer, plugin]
